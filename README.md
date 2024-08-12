@@ -23,4 +23,4 @@ This Weather App provides current weather information based on the user's locati
 
 - HTML
 - CSS
-
+- JS
